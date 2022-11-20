@@ -1,2 +1,2 @@
-access_key = "AKIATC6AQYSJ2SRYT5EL"
-secret_key = "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"
+access_key = place key
+secret_key = place secret
