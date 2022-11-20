@@ -6,3 +6,8 @@ variable "access_key" {
 variable "secret_key" {
   description = "Secret for the lab environment"
 }
+
+variable "server_port" {
+  description = "The port server will use for HTTP requests"
+  type = number
+}
