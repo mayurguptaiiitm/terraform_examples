@@ -1,0 +1,1 @@
+This project is for the storage and management of the terraform state file on aws
